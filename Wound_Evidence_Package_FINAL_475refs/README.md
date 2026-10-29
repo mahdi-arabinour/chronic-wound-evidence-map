@@ -12,7 +12,7 @@ The source reference register (`Current_Main_475_References.csv`) is matched by 
 
 ## Explicit source-set changes
 
-The latest main bibliography has 475 records, not the earlier 477. In Figure S8–S9's source cohort, the earlier unpublished diabetic-foot-ulcer tissue-segmentation preprint (original ref 279) is no longer in the cited table; the retained published WSNet conference paper maps from original 282 to current 284. The Figure S10–S11 source cohort excludes the earlier WEABM preprint (original ref 404) and three earlier DFU-derived disease-model sources (original refs 371, 372, 376) that are not cited in the *current* Supplementary Table S5. Their prior coded rows have not been reassigned to unrelated papers. Cohort sizes are: S1 28, S2 20, S3 41, S4 45, S5 34 (S6 mechanism-defined subset 37). All other selected categories remain the author's original coded assessments.
+The latest main bibliography has 475 records, not the earlier 477. The Figure S10–S11 source cohort excludes the earlier WEABM preprint (original ref 404) and three earlier DFU-derived disease-model sources (original refs 371, 372, 376) that are not cited in the *current* Supplementary Table S5. Their prior coded rows have not been reassigned to unrelated papers. Cohort sizes are: S1 28, S2 20, S3 41, S4 45, S5 34 (S6 mechanism-defined subset 37). All other selected categories remain the author's original coded assessments.
 
 The original three proposed ordinal/hypothetical figures (former S3, S11 and S13) remain excluded because the earlier scoring could not support comparative claims. No previously removed plot has been reintroduced.
 
