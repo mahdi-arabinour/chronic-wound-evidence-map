@@ -1,0 +1,42 @@
+
+{
+  "title": "AI-Integrated Skin-on-Chip and Smart Biomaterials for Chronic Wound Drug Discovery: Evidence-Mapping Data and Reproducibility Code",
+  "version": "1.0.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Arabinour, Mahdi",
+      "affiliation": "University of Miami",
+      "orcid": "0000-0001-9902-9847"
+    },
+    {
+      "name": "Sultani, Nargis",
+      "affiliation": "Georgia Institute of Technology"
+    },
+    {
+      "name": "Tamayol, Ali",
+      "affiliation": "University of Connecticut Health Center"
+    },
+    {
+      "name": "Zhou, Xiangyang",
+      "affiliation": "University of Miami"
+    },
+    {
+      "name": "Tayebi, Lobat",
+      "affiliation": "Old Dominion University"
+    }
+  ],
+  "description": "Research data and reproducibility package accompanying the review Emerging AI-Integrated Skin-on-Chip and Smart Biomaterial Platforms for Chronic Wound Drug Discovery. Includes a curated reference registry, study-level coding datasets, evidence matrices, source-data workbook, Python scripts, eleven supplementary figure outputs, validation reports, and documentation. This resource supports descriptive evidence mapping and reproducibility, not independent experimental or clinical validation.",
+  "keywords": [
+    "Chronic wounds",
+    "Skin-on-chip",
+    "Smart biomaterials",
+    "Artificial intelligence",
+    "Drug discovery",
+    "Evidence mapping",
+    "Reproducibility"
+  ],
+  "language": "eng"
+}
