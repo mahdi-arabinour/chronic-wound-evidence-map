@@ -1,0 +1,86 @@
+{
+  "status": "PASS",
+  "figure_count": 11,
+  "matrix_values_independently_recomputed": 339,
+  "source_library_count": 475,
+  "figure_checks": [
+    {
+      "figure": "S1",
+      "SI_source_table": "S1",
+      "unique_references": 28,
+      "cells_checked": 28,
+      "status": "PASS"
+    },
+    {
+      "figure": "S2",
+      "SI_source_table": "S1",
+      "unique_references": 28,
+      "cells_checked": 16,
+      "status": "PASS"
+    },
+    {
+      "figure": "S3",
+      "SI_source_table": "S2",
+      "unique_references": 20,
+      "cells_checked": 35,
+      "status": "PASS"
+    },
+    {
+      "figure": "S4",
+      "SI_source_table": "S2",
+      "unique_references": 20,
+      "cells_checked": 35,
+      "status": "PASS"
+    },
+    {
+      "figure": "S5",
+      "SI_source_table": "S2",
+      "unique_references": 20,
+      "cells_checked": 10,
+      "status": "PASS"
+    },
+    {
+      "figure": "S6",
+      "SI_source_table": "S3",
+      "unique_references": 37,
+      "cells_checked": 56,
+      "status": "PASS"
+    },
+    {
+      "figure": "S7",
+      "SI_source_table": "S3",
+      "unique_references": 41,
+      "cells_checked": 81,
+      "status": "PASS"
+    },
+    {
+      "figure": "S8",
+      "SI_source_table": "S4",
+      "unique_references": 45,
+      "cells_checked": 7,
+      "status": "PASS"
+    },
+    {
+      "figure": "S9",
+      "SI_source_table": "S4",
+      "unique_references": 45,
+      "cells_checked": 56,
+      "status": "PASS"
+    },
+    {
+      "figure": "S10",
+      "SI_source_table": "S5",
+      "unique_references": 34,
+      "cells_checked": 8,
+      "status": "PASS"
+    },
+    {
+      "figure": "S11",
+      "SI_source_table": "S5",
+      "unique_references": 34,
+      "cells_checked": 7,
+      "status": "PASS"
+    }
+  ],
+  "important_limit": "Internal numeric/source-cohort concordance only; not independent validation of all original-study classifications. Original S3, S11 and S13 ordinal figures removed."
+}

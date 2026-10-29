@@ -1,0 +1,84 @@
+{
+  "count_cells_verified": 339,
+  "comparison_pass": true,
+  "figures": [
+    {
+      "figure": "S1",
+      "source_table": "Table S1",
+      "unique_studies": 28,
+      "coding_records": 196,
+      "image": "Figure_S01_REBUILT.png"
+    },
+    {
+      "figure": "S2",
+      "source_table": "Table S1",
+      "unique_studies": 28,
+      "coding_records": 28,
+      "image": "Figure_S02_REBUILT.png"
+    },
+    {
+      "figure": "S3",
+      "source_table": "Table S2",
+      "unique_studies": 20,
+      "coding_records": 44,
+      "image": "Figure_S03_REBUILT.png"
+    },
+    {
+      "figure": "S4",
+      "source_table": "Table S2",
+      "unique_studies": 20,
+      "coding_records": 44,
+      "image": "Figure_S04_REBUILT.png"
+    },
+    {
+      "figure": "S5",
+      "source_table": "Table S2",
+      "unique_studies": 20,
+      "coding_records": 119,
+      "image": "Figure_S05_REBUILT.png"
+    },
+    {
+      "figure": "S6",
+      "source_table": "Table S3",
+      "unique_studies": 37,
+      "coding_records": 356,
+      "image": "Figure_S06_REBUILT.png"
+    },
+    {
+      "figure": "S7",
+      "source_table": "Table S3",
+      "unique_studies": 41,
+      "coding_records": 369,
+      "image": "Figure_S07_REBUILT.png"
+    },
+    {
+      "figure": "S8",
+      "source_table": "Table S4",
+      "unique_studies": 45,
+      "coding_records": 45,
+      "image": "Figure_S08_REBUILT.png"
+    },
+    {
+      "figure": "S9",
+      "source_table": "Table S4",
+      "unique_studies": 45,
+      "coding_records": 73,
+      "image": "Figure_S09_REBUILT.png"
+    },
+    {
+      "figure": "S10",
+      "source_table": "Table S5",
+      "unique_studies": 34,
+      "coding_records": 100,
+      "image": "Figure_S10_REBUILT.png"
+    },
+    {
+      "figure": "S11",
+      "source_table": "Table S5",
+      "unique_studies": 34,
+      "coding_records": 104,
+      "image": "Figure_S11_REBUILT.png"
+    }
+  ],
+  "limitation": "Numerical reproduction of 11 descriptive figures. No independent full-text validation of all source classifications."
+}

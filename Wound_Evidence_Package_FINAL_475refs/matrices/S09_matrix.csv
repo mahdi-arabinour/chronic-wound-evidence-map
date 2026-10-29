@@ -1,0 +1,8 @@
+﻿Group,2D wound images,Multimodal / advanced imaging,Clinical / EMR variables,Longitudinal / time-series data,Omics / molecular biomarkers,Material / formulation descriptors,Sensor / electronic signals,Closed-loop / actuation variables,Unique studies in group
+Automated image segmentation and quantitative wound-image analysis,10,0,0,0,0,0,0,0,10
+Image-based classification and detection,2,1,0,0,0,0,0,0,2
+"Healing prediction, prognosis, and trajectory modeling",2,1,7,7,3,0,0,0,10
+"Risk stratification for recurrence, amputation, or mortality",0,1,6,0,0,0,0,0,6
+Biomaterial design and formulation optimization,0,0,0,1,0,3,0,0,3
+AI-enabled wound-status sensing and classification,2,0,0,0,0,0,2,0,2
+AI-ready smart sensing and closed-loop therapeutic platforms,0,0,0,0,1,0,12,12,12

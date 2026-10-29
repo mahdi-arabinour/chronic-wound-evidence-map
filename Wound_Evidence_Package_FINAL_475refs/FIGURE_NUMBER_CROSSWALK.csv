@@ -1,0 +1,15 @@
+﻿Original figure,Stage4 figure,Decision,Supporting SI table,Reference count in current source register,Explanation
+S1,S1,KEEP - NEW NUMBER,S1,28,Retained descriptive source-coded evidence-map figure; not a calibrated clinical metric.
+S2,S2,KEEP - NEW NUMBER,S1,28,Retained descriptive source-coded evidence-map figure; not a calibrated clinical metric.
+S3,,REMOVE - UNSUPPORTED ORDINAL FIGURE,S1,28,Unvalidated cross-study structural/disease ordinal scale; historical scoring anchors absent; 28 full-text study adjudications incomplete.
+S4,S3,KEEP - NEW NUMBER,S2,20,Retained descriptive source-coded evidence-map figure; not a calibrated clinical metric.
+S5,S4,KEEP - NEW NUMBER,S2,20,Retained descriptive source-coded evidence-map figure; not a calibrated clinical metric.
+S6,S5,KEEP - NEW NUMBER,S2,20,Retained descriptive source-coded evidence-map figure; not a calibrated clinical metric.
+S7,S6,KEEP - NEW NUMBER,S3,37,Retained descriptive source-coded evidence-map figure; not a calibrated clinical metric.
+S8,S7,KEEP - NEW NUMBER,S3,41,Retained descriptive source-coded evidence-map figure; not a calibrated clinical metric.
+S9,S8,KEEP - NEW NUMBER,S4,45,Retained descriptive source-coded evidence-map figure; not a calibrated clinical metric.
+S10,S9,KEEP - NEW NUMBER,S4,45,Retained descriptive source-coded evidence-map figure; not a calibrated clinical metric.
+S11,,REMOVE - UNSUPPORTED ORDINAL FIGURE,S5,38,Evidence-context maturity tiers lack reproducible calibrated cutoffs or systematic risk-of-bias assessment.
+S12,S10,KEEP - NEW NUMBER,S5,34,Retained descriptive source-coded evidence-map figure; not a calibrated clinical metric.
+S13,,REMOVE - UNSUPPORTED ORDINAL FIGURE,S5,38,Hypothetical animal-use reduction tiers are not observed animal replacement/reduction outcomes and lack validated assignment criteria.
+S14,S11,KEEP - NEW NUMBER,S5,34,Retained descriptive source-coded evidence-map figure; not a calibrated clinical metric.

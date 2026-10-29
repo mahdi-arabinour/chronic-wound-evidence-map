@@ -1,0 +1,169 @@
+﻿SI_Table,Reference_number,SI_Table_row_identification,Title_from_main,DOI_from_register
+S1,105,2: Migration assay standardization,Comparison of in vitro scratch wound assay experimental procedures,10.1016/j.bbrep.2023.101423
+S1,106,4: 2D assays with acute in vivo validation,"ERK activating peptide, AES16-2M promotes wound healing through accelerating migration of keratinocytes",10.1038/s41598-018-32851-y
+S1,107,3: 2D therapeutic-response assays,Effects of Periploca forrestii Schltr on wound healing by Src meditated Mek/Erk and PI3K/Akt signals,10.1016/j.jep.2019.03.046
+S1,108,2: Migration assay standardization,Microscopy based methods for the assessment of epithelial cell migration during in vitro wound healing,10.3791/56799
+S1,109,3: 2D therapeutic-response assays,Establishment of a cell-based wound healing assay for bio-relevant testing of wound therapeutics,10.1016/j.vascn.2017.10.003
+S1,110,6: Reconstructed epidermis for barrier and irritation testing,"Property characterization of reconstructed human epidermis equivalents, and performance as a skin irritation model",10.1016/j.tiv.2018.07.005
+S1,111,6: Reconstructed epidermis for barrier and irritation testing,A new reconstructed human epidermis for in vitro skin irritation testing,10.1016/j.tiv.2017.03.010
+S1,112,7: Epidermal and full-thickness toxicity comparison,Skin corrosion test: A comparison between reconstructed human epidermis and full thickness skin models,10.1016/j.ejpb.2018.01.002
+S1,115,7: Epidermal and full-thickness toxicity comparison,Skin toxicity assessment of silver nanoparticles in a 3D epidermal model compared to 2D keratinocytes,10.2147/IJN.S225451
+S1,118,11: Longitudinal non-invasive wound monitoring,New Methodological Approach to Follow the Re‐Epithelialisation Phase in the Wound Healing Process on a 3D Full Thickness Skin Model,10.1111/exd.70137
+S1,119,8: Automated epidermal digital pathology,Assessment of skin toxicity in an in vitro reconstituted human epidermis model using deep learning,10.1016/j.ajpath.2021.12.007
+S1,122,10: Matrix-based 3D wound constructs,Keratinocyte migration in a three-dimensional in vitro wound healing model co-cultured with fibroblasts,10.1007/s13770-018-0145-7
+S1,123,11: Longitudinal non-invasive wound monitoring,Reepithelialization in focus: Non-invasive monitoring of epidermal wound healing in vitro,10.1016/j.bios.2019.111555
+S1,124,11: Longitudinal non-invasive wound monitoring,Fluorescent cell tracer dye permits real‐time assessment of re‐epithelialization in a serum‐free ex vivo human skin wound assay,10.1111/wrr.12688
+S1,125,13: Controlled injury and inflammatory 3D wound models,A standardized in vitro bioengineered skin for penetrating wound modeling,10.1007/s44164-025-00082-x
+S1,126,13: Controlled injury and inflammatory 3D wound models,Novel leukocyte-depleted platelet-rich plasma-based skin equivalent as an in vitro model of chronic wounds: a preliminary study,10.1186/s12860-021-00366-6
+S1,128,16: Bioink-optimized printed skin equivalents,Fibrinogen-based bioink for application in skin equivalent 3D bioprinting,10.3390/jfb14090459
+S1,129,16: Bioink-optimized printed skin equivalents,Properties of collagen/sodium alginate hydrogels for bioprinting of skin models,10.1007/s42235-022-00251-8
+S1,130,16: Bioink-optimized printed skin equivalents,3D Bioprinting a Novel Skin Co‐Culture Model Using Human Keratinocytes and Fibroblasts,10.1002/jbm.a.37831
+S1,131,14: Mechanically guided bilayer tissue-engineered skin,Bilayer tissue-engineered skin loaded with confining forces enhances epidermal proliferation to promote full-thickness wound healing,10.1016/j.mtcomm.2025.113049
+S1,132,17: Printed skin substitutes and in situ wound bioprinting,3D bioprinted skin substitutes for accelerated wound healing and reduced scar,10.1007/s42235-021-0053-8
+S1,133,17: Printed skin substitutes and in situ wound bioprinting,Development and application of a mechanical arm-based in situ 3D bioprinting method for the repair of skin wounds,10.1007/s42452-024-06043-5
+S1,134,18: PRP-functionalized and vascularized printed wound substitutes,Functionalizing multi-component bioink with platelet-rich plasma for customized in-situ bilayer bioprinting for wound healing,10.1016/j.mtbio.2022.100334
+S1,136,18: PRP-functionalized and vascularized printed wound substitutes,"A bioprinted vascularized skin substitute with fibroblasts, keratinocytes, and endothelial progenitor cells for skin wound healing",10.1016/j.bprint.2022.e00237
+S1,137,18: PRP-functionalized and vascularized printed wound substitutes,"Three dimensional bioprinting of a vascularized and perfusable skin graft using human keratinocytes, fibroblasts, pericytes, and endothelial cells",10.1089/ten.TEA.2019.0201
+S1,138,18: PRP-functionalized and vascularized printed wound substitutes,3D bioprinting bioglass to construct vascularized full-thickness skin substitutes for wound healing,10.1016/j.mtbio.2023.100899
+S1,140,13: Controlled injury and inflammatory 3D wound models,Macrophages significantly enhance wound healing in a vascularized skin model,10.1002/jbm.a.36648
+S1,142,19: Disease-relevant diabetic bioprinted skin,Engineering of diseased human skin equivalent using 3D cell printing for representing pathophysiological hallmarks of type 2 diabetes in vitro,10.1016/j.biomaterials.2021.120776
+S2,58,12: Perfused inflammatory full-thickness skin-on-chip model for drug-response testing,Analysis of drug efficacy for inflammatory skin on an organ-chip system,
+S2,101,18: Multiplexed wound-exudate sensing patches,A flexible multiplexed immunosensor for point-of-care in situ wound monitoring,10.1126/sciadv.abg9614
+S2,155,2: Perfused dermal perivascular angiogenesis chip,A 3D millifluidic model of a dermal perivascular microenvironment on a chip,10.1039/d4lc00898g
+S2,158,3: Ex vivo full-thickness human skin microbioreactor,Design and evaluation of a skin-on-a-chip pumpless microfluidic device,10.1038/s41598-023-34796-3
+S2,159,4: Layered tissue-generation chip,A new microfluidic method enabling the generation of multi-layered tissues-on-chips using skin cells as a proof of concept,10.1038/s41598-021-91875-z
+S2,164,5: Oxygen-gradient angiogenesis module,Studying sprouting angiogenesis under combination of oxygen gradients and co-culture of fibroblasts using microfluidic cell culture model,10.1016/j.mtbio.2023.100703
+S2,166,7: Perfused reconstructed skin-on-chip for transdermal diffusion,In silico approach for validating organ-on-chips: exemplifying through a skin-on-chip device,10.1007/s10404-025-02863-y
+S2,169,13: Infection-activated vessel-on-chip,An in vitro human vessel model to study Neisseria meningitidis colonization and vascular damages,10.7554/eLife.107813
+S2,181,8: Perfused 3D skin-on-chip for barrier validation and drug permeation,A 3D microfluidic model for preclinical drug permeation studies: Advancing validation of skin-on-chip technology,10.1016/j.jpba.2025.117187
+S2,182,18: Multiplexed wound-exudate sensing patches,A flexible and multimodal biosensing patch integrated with microfluidics for chronic wound monitoring,10.1016/j.cej.2024.157673
+S2,183,19: Battery-free lactate prognostic wound monitor,"A miniaturized, battery‐free, wireless wound monitor that predicts wound closure rate early",10.1002/adhm.202301280
+S2,187,21: Wireless smart bandage with sensing and electrical stimulation,"Wireless, closed-loop, smart bandage with integrated sensors and stimulators for advanced wound care and accelerated healing",10.1038/s41587-022-01528-3
+S2,188,22: Closed-loop wound-management platform with on-chip inference and drug delivery,Smart Wound Management System Capable of On‐Chip Machine Learning and Closed‐Loop Therapeutic Feedback,10.1002/adfm.202522329
+S2,192,9: Ex vivo and surrogate skin dynamic permeation platforms,"Skin-on-a-chip device for ex vivo monitoring of transdermal delivery of drugs—design, fabrication, and testing",10.3390/pharmaceutics11090445
+S2,193,9: Ex vivo and surrogate skin dynamic permeation platforms,Comparison between Franz diffusion cell and a novel micro-physiological system for in vitro penetration assay using different skin models,10.1016/j.slast.2021.12.006
+S2,194,10: Skin-linked systemic toxicity chips,Microphysiological heart–liver body-on-a-chip system with a skin mimic for evaluating topical drug delivery,10.1039/c9lc00861f
+S2,195,10: Skin-linked systemic toxicity chips,Toxicity of topically applied drugs beyond skin irritation: Static skin model vs,10.1016/j.ijpharm.2020.119788
+S2,196,14: Dynamic reconstructed skin-on-chip for topical sensitizer response,Proof-of-concept organ-on-chip study: topical cinnamaldehyde exposure of reconstructed human skin with integrated neopapillae cultured under dynamic flow,10.3390/pharmaceutics14081529
+S2,197,15: Perfused inflammatory skin-on-chip with rapid cytokine detection,Skin-on-a-Chip Coupled with a Rapid Inflammation Detection System for Cosmetic Ingredient Screening,
+S2,198,16: Epidermal pruritus and barrier-support skin-on-chip,Skin-on-Chip and clinical evaluation of the soothing potential of a topical natural treatment for atopic-prone skin: An exploratory study,10.1016/j.biopha.2025.118957
+S3,200,"3: Redox-, glucose-, and mixed-stimulus adaptive hydrogels",Construction of oxidized dextran-based pH/ROS responsive hydrogel with live bacterial microcapsules for accelerating diabetic wound healing via reducing inflammatory factors,10.1016/j.ijbiomac.2026.151405
+S3,201,"3: Redox-, glucose-, and mixed-stimulus adaptive hydrogels",pH/ROS responsive hydrogel loaded with bimetallic phenolic nanoparticles: A multifaceted therapeutic strategy for accelerating diabetic wound repair,10.1016/j.cej.2025.170173
+S3,202,4: Enzyme-activated infection and remodeling depots,Bacterial enzyme-responsive hydrogels for triggered delivery of antibiotics to infected wounds,10.1126/sciadv.adz0786
+S3,206,2: Acidic pH-switching adhesive and release matrices,pH-responsive hydrogel loaded with insulin as a bioactive dressing for enhancing diabetic wound healing,10.1016/j.matdes.2021.110104
+S3,207,2: Acidic pH-switching adhesive and release matrices,Dual-crosslinked mussel-inspired smart hydrogels with enhanced antibacterial and angiogenic properties for chronic infected diabetic wound treatment via pH-responsive quick cargo release,10.1016/j.cej.2021.128564
+S3,210,"3: Redox-, glucose-, and mixed-stimulus adaptive hydrogels",ROS-scavenging hydrogel to promote healing of bacteria infected diabetic wounds,10.1016/j.biomaterials.2020.120286
+S3,211,"3: Redox-, glucose-, and mixed-stimulus adaptive hydrogels",Ros-responsive hydrogel with size-dependent sequential release effects for anti-bacterial and anti-inflammation in diabetic wound healing,
+S3,212,"3: Redox-, glucose-, and mixed-stimulus adaptive hydrogels","Smart multifunctional ROS-responsive supramolecular hydrogel for simultaneously regulating oxidative stress, immune dysregulation, and bacterial infection in diabetic wound healing",10.1016/j.biomaterials.2026.124006
+S3,214,"3: Redox-, glucose-, and mixed-stimulus adaptive hydrogels",A smart ROS-responsive hydrogel for on-demand antibacterial and platelet-rich plasma (PRP) activation in diabetic wound healing,10.1016/j.jconrel.2025.114392
+S3,215,"3: Redox-, glucose-, and mixed-stimulus adaptive hydrogels",Glucose/ROS-responsive and redox-gated adaptive hydrogel dressing for accelerating diabetic wound repair via synergistic cGAS/STING pathway inhibition and oxidative stress alleviation,10.1016/j.bioactmat.2026.03.025
+S3,217,4: Enzyme-activated infection and remodeling depots,ADSC-exo@ MMP-PEG smart hydrogel promotes diabetic wound healing by optimizing cellular functions and relieving oxidative stress,10.1016/j.mtbio.2022.100365
+S3,219,2: Acidic pH-switching adhesive and release matrices,A dual pH-and temperature-responsive hydrogel produced in situ crosslinking of cyclodextrin-cellulose for wound healing,10.1016/j.ijbiomac.2023.126693
+S3,221,5: Thermogelling and externally actuated antimicrobial-regenerative systems,Temperature-Responsive Hydrogel Delivery of Antimicrobial Peptide Engineered Watermelon-Derived Extracellular Vesicles Enables Sequential Infection Control and Wound Healing,10.1016/j.colsurfb.2026.115438
+S3,224,7: Macrophage-state and cytokine-balancing matrices,Immunomodulatory hydrogel orchestrates pro-regenerative response of macrophages and angiogenesis for chronic wound healing,10.1016/j.biomaterials.2024.122848
+S3,225,7: Macrophage-state and cytokine-balancing matrices,Immunoregulatory hydrogel decorated with Tannic acid/Ferric ion accelerates diabetic wound healing via regulating Macrophage polarization,10.1016/j.cej.2023.143173
+S3,226,7: Macrophage-state and cytokine-balancing matrices,Extracellular matrix‐mimetic immunomodulatory hydrogel for accelerating wound healing,10.1002/adhm.202301264
+S3,227,7: Macrophage-state and cytokine-balancing matrices,Bioinspired design of mannose-decorated globular lysine dendrimers promotes diabetic wound healing by orchestrating appropriate macrophage polarization,10.1016/j.biomaterials.2021.121323
+S3,230,2: Acidic pH-switching adhesive and release matrices,Chitosan-based hydrogel dressings for diabetic wound healing via promoting M2 macrophage-polarization,10.1016/j.carbpol.2024.121873
+S3,231,7: Macrophage-state and cytokine-balancing matrices,Varying ratios of M/G in alginate to modulate macrophages polarization and its application for wound healing in diabetic,10.1016/j.ijbiomac.2024.132387
+S3,232,7: Macrophage-state and cytokine-balancing matrices,Programming of macrophage polarization in different stages for accelerating wound healing,10.1016/j.cej.2024.152131
+S3,234,8: Antimicrobial and antibiofilm hydrogel depots,"In Vitro and In Vivo Comparison of a Novel Antimicrobial Wound Hydrogel With Commercial Wound Treatments: Antimicrobial, Antibiofilm and Biocompatibility Assessment",10.1111/iwj.70904
+S3,235,8: Antimicrobial and antibiofilm hydrogel depots,"Efficacy of a novel antimicrobial hydrogel for eradication of Staphylococcus epidermidis, Staphylococcus aureus and Cutibacterium acnes from preformed biofilm and treatment performance in an in vivo MRSA wound model",10.1093/jacamr/dlab108
+S3,238,8: Antimicrobial and antibiofilm hydrogel depots,Sustained release of alginate hydrogel containing antimicrobial peptide Chol-37 (F34-R) in vitro and its effect on wound healing in murine model of Pseudomonas aeruginosa infection,10.4142/jvs.22319
+S3,239,5: Thermogelling and externally actuated antimicrobial-regenerative systems,A photo-modulated nitric oxide delivering hydrogel for the accelerated healing of biofilm infected chronic wounds,10.1016/j.actbio.2024.09.017
+S3,241,8: Antimicrobial and antibiofilm hydrogel depots,Photo‐Crosslinked Antimicrobial Hydrogel Exhibiting Wound Healing Ability and Curing Infections In Vivo,10.1002/adhm.202200536
+S3,243,8: Antimicrobial and antibiofilm hydrogel depots,Eradication of Mature Bacterial Biofilms with Concurrent Improvement in Chronic Wound Healing Using Silver Nanoparticle Hydrogel Treatment,10.3390/biomedicines9091182
+S3,244,8: Antimicrobial and antibiofilm hydrogel depots,TA-AgNPs/Alginate Hydrogel and Its potential application as a promising antibiofilm material against polymicrobial wound biofilms using a unique biofilm flow model,10.3390/microorganisms10112279
+S3,245,5: Thermogelling and externally actuated antimicrobial-regenerative systems,Multifunctional ultrasmall AgNP hydrogel accelerates healing of S. aureus infected wounds,10.1016/j.actbio.2021.04.007
+S3,248,10: Growth-factor and protein delivery depots,Sustained release of insulin-like growth factor-1 from Bombyx mori L. silk fibroin delivery for diabetic wound therapy,10.3390/ijms22126267
+S3,249,10: Growth-factor and protein delivery depots,Controlled platelet-derived growth factor delivery by hyaluronic acid hydrogels with tunable crosslinking for accelerated chronic wound healing,10.1016/j.ijbiomac.2025.140710
+S3,250,10: Growth-factor and protein delivery depots,Platelet‐derived growth factor nanocapsules with tunable controlled release for chronic wound healing,10.1002/smll.202310743
+S3,252,10: Growth-factor and protein delivery depots,Sequential release of multiple growth factors from injectable nanocomposite hyaluronic acid hydrogels for enhanced angiogenesis,10.1016/j.cej.2025.168701
+S3,253,10: Growth-factor and protein delivery depots,Fibrin hydrogel incorporated with microspheres containing vascular endothelial growth factor (VEGF) and basic fibroblast growth factor (bFGF) accelerated the healing of diabetic wounds in rats,10.1016/j.tice.2025.103301
+S3,254,10: Growth-factor and protein delivery depots,Programmable hierarchical hydrogel dressing for sequential release of growth factor and DNase to accelerate diabetic wound healing,10.1016/j.jconrel.2025.113825
+S3,255,12: Multicargo sequence-delivery formulations,An intrinsically bioactive hydrogel with on-demand drug release behaviors for diabetic wound healing,10.1016/j.bioactmat.2021.04.040
+S3,256,11: Exosome and extracellular-vesicle release systems,All‐in‐one: multifunctional hydrogel accelerates oxidative diabetic wound healing through timed‐release of exosome and fibroblast growth factor,10.1002/smll.202104229
+S3,257,11: Exosome and extracellular-vesicle release systems,Duo-nano exosome encapsulating hydrogel boosts wound healing across xenogenic and allogenic models,10.1016/j.biomaterials.2025.123975
+S3,258,11: Exosome and extracellular-vesicle release systems,Recombinant human collagen hydrogels with different stem cell-derived exosomes encapsulation for wound treatment,10.1186/s12951-025-03319-9
+S3,259,11: Exosome and extracellular-vesicle release systems,"Sustained exosome‐guided macrophage polarization using hydrolytically degradable PEG hydrogels for cutaneous wound healing: identification of key proteins and MiRNAs, and sustained release formulation",10.1002/smll.202200060
+S3,261,12: Multicargo sequence-delivery formulations,A composite hydrogel with co-delivery of antimicrobial peptides and platelet-rich plasma to enhance healing of infected wounds in diabetes,10.1016/j.actbio.2021.01.046
+S3,262,4: Enzyme-activated infection and remodeling depots,Facile and efficient encapsulation of antimicrobial peptides via crosslinked DNA nanostructures and their application in wound therapy,10.1016/j.jconrel.2019.10.013
+S4,91,"6: Molecular, exudate, biofilm, and treatment-response prediction",Promising Biomarkers for Chronic Wound Healing: A Pilot Cohort Study on Wound Cytokines and a Novel Biofilm Detection Kit for Predicting 90‐Day Outcomes,10.1111/wrr.70100
+S4,102,12: AI-enabled wound-state sensing and classification,Multifunctional hydrogel as wound dressing for intelligent wound monitoring,10.1016/j.cej.2022.134625
+S4,271,2: Wound-boundary segmentation and calibrated area extraction,Diabetic foot ulcers segmentation challenge report: Benchmark and analysis,10.1016/j.media.2024.103153
+S4,272,2: Wound-boundary segmentation and calibrated area extraction,"Fully convolutional networks for diabetic foot ulcer segmentation. in 2017 IEEE international conference on systems, man, and cybernetics (SMC)",
+S4,275,2: Wound-boundary segmentation and calibrated area extraction,FUSegNet: A deep convolutional neural network for foot ulcer segmentation,10.1016/j.bspc.2024.106057
+S4,276,2: Wound-boundary segmentation and calibrated area extraction,Fully automatic wound segmentation with deep convolutional neural networks,10.1038/s41598-020-78799-w
+S4,277,2: Wound-boundary segmentation and calibrated area extraction,Detect-and-segment: A deep learning approach to automate wound image segmentation,10.1016/j.imu.2022.100884
+S4,281,3: Tissue-level and disease-state image phenotyping,Assessing Clinician Consistency in Wound Tissue Classification and the Value of AI‐Assisted Quantification: A Cross‐Sectional Study,
+S4,282,3: Tissue-level and disease-state image phenotyping,Recognition of ischaemia and infection in diabetic foot ulcers: Dataset and techniques,10.1016/j.compbiomed.2020.103616
+S4,283,3: Tissue-level and disease-state image phenotyping,Protocol for metadata and image collection at diabetic foot ulcer clinics: enabling research in wound analytics and deep learning,
+S4,284,2: Wound-boundary segmentation and calibrated area extraction,WSNet: towards an effective method for wound image segmentation. in Proceedings of the IEEE/CVF winter conference on applications of computer vision,
+S4,286,3: Tissue-level and disease-state image phenotyping,AI-assisted assessment of wound tissue with automatic color and measurement calibration on images taken with a smartphone. in Healthcare,
+S4,287,2: Wound-boundary segmentation and calibrated area extraction,FUSeg: The foot ulcer segmentation challenge,10.3390/info15030140
+S4,288,2: Wound-boundary segmentation and calibrated area extraction,Analysis of training data augmentation for diabetic foot ulcer semantic segmentation,
+S4,293,5: Longitudinal healing trajectory and time-to-closure prediction,The use of the artificial neural network for three-month prognosis in diabetic foot syndrome,
+S4,295,5: Longitudinal healing trajectory and time-to-closure prediction,Machine learning models for predicting the risk of hard-to-heal diabetic foot ulcers in a Chinese population,10.2147/DMSO.S383960
+S4,296,5: Longitudinal healing trajectory and time-to-closure prediction,Temporal machine learning framework for diabetic foot ulcer healing trajectory prediction,10.1186/s12938-026-01529-2
+S4,297,5: Longitudinal healing trajectory and time-to-closure prediction,Dynamic prediction of time to wound healing at routine wound care visits,10.1089/wound.2024.0069
+S4,298,5: Longitudinal healing trajectory and time-to-closure prediction,Chronic ulcers healing prediction through machine learning approaches: preliminary results on diabetic foot ulcers case study,
+S4,299,5: Longitudinal healing trajectory and time-to-closure prediction,Towards an AI-based objective prognostic model for quantifying wound healing,
+S4,300,5: Longitudinal healing trajectory and time-to-closure prediction,Predictive modeling of chronic foot ulcer outcomes using longitudinal photoacoustic imaging,
+S4,302,"6: Molecular, exudate, biofilm, and treatment-response prediction",Integrated machine learning analysis of proteomic and transcriptomic data identifies healing associated targets in diabetic wound repair,
+S4,305,"6: Molecular, exudate, biofilm, and treatment-response prediction",Development of an XGBoost-based prediction model for wound recurrence risk in diabetic foot ulcer patients treated with antibiotic-loaded bone cement,
+S4,306,"6: Molecular, exudate, biofilm, and treatment-response prediction",Healing profiles in patients with a chronic diabetic foot ulcer: An exploratory study with machine learning,
+S4,307,"7: Recurrence, amputation, mortality, and population-level risk stratification",Personalized prediction of diabetic foot ulcer recurrence in elderly individuals using machine learning paradigms,10.3233/THC-248023
+S4,308,"7: Recurrence, amputation, mortality, and population-level risk stratification",Interpretable machine learning model for predicting recurrence in patients with diabetic foot ulcers,
+S4,310,"7: Recurrence, amputation, mortality, and population-level risk stratification",Toward machine-learning-based decision support in diabetes care: A risk stratification study on diabetic foot ulcer and amputation,10.3389/fmed.2020.601602
+S4,311,"7: Recurrence, amputation, mortality, and population-level risk stratification",Survival prediction in diabetic foot ulcers: a machine learning approach,10.3390/jcm12185816
+S4,312,"7: Recurrence, amputation, mortality, and population-level risk stratification",An interpreting machine learning models to predict amputation risk in patients with diabetic foot ulcers: a multi-center study,
+S4,321,10: Biologically constrained formulation optimization,"Machine learning-driven optimization of therapeutic substance composition for high-hardness, fast-dissolving microneedles for androgenetic alopecia treatment",10.1021/acsnano.5c05505
+S4,330,9: Release-kinetic and exposure-duration optimization,Automated active learning to optimize hydrogel drug release profiles,10.1016/j.jconrel.2026.114602
+S4,331,9: Release-kinetic and exposure-duration optimization,"A hybrid machine learning framework for predicting drug-release profiles, kinetics, and mechanisms of temperature-responsive hydrogels",10.1007/s00289-025-05645-2
+S4,340,13: Feedback-capable smart dressings with sensing and controlled release,Battery‐free and wireless smart wound dressing for wound infection monitoring and electrically controlled on‐demand drug delivery,
+S4,341,13: Feedback-capable smart dressings with sensing and controlled release,A closed-loop smart dressing based on microneedle and electrochemical micropump for early diagnosis and in-time therapy of chronic wound,
+S4,342,12: AI-enabled wound-state sensing and classification,Battery-free and AI-enabled multiplexed sensor patches for wound monitoring,10.1126/sciadv.adg6670
+S4,343,13: Feedback-capable smart dressings with sensing and controlled release,Wireless and closed‐loop smart dressing for exudate management and on‐demand treatment of chronic wounds,
+S4,344,13: Feedback-capable smart dressings with sensing and controlled release,A conducting polymer-based array with multiplex sensing and drug delivery capabilities for smart bandages,
+S4,345,13: Feedback-capable smart dressings with sensing and controlled release,Wireless matrix metalloproteinase-9 sensing by smart wound dressing with controlled antibacterial nanoparticles release toward chronic wound management,10.1016/j.bios.2024.116860
+S4,346,14: Wound-cue-mediated adaptive release and integrated therapeutic feedback,Closed‐Loop Responsive Smart Bandages for Dynamic Monitoring and Self‐Regulated Antibacterial Therapy in Wound Healing,
+S4,347,14: Wound-cue-mediated adaptive release and integrated therapeutic feedback,A closed-loop patch based on bioinspired infection sensor for wound management,10.1016/j.nantod.2024.102400
+S4,348,14: Wound-cue-mediated adaptive release and integrated therapeutic feedback,Injectable hydrogels with integrated Ph probes and ultrasound‐responsive microcapsules as smart wound dressings for visual monitoring and on‐demand treatment of chronic wounds,
+S4,349,14: Wound-cue-mediated adaptive release and integrated therapeutic feedback,A skin-interfaced three-dimensional closed-loop sensing and therapeutic electronic wound bandage,10.1038/s41467-025-61261-8
+S4,351,13: Feedback-capable smart dressings with sensing and controlled release,Smart flexible electronics‐integrated wound dressing for real‐time monitoring and on‐demand treatment of infected wounds,10.1002/advs.201902673
+S4,352,13: Feedback-capable smart dressings with sensing and controlled release,A highly stretchable smart dressing for wound infection monitoring and treatment,
+S4,353,14: Wound-cue-mediated adaptive release and integrated therapeutic feedback,"Wearable, battery-free, and wireless microneedle-based bioelectronics for robustly-integrated chronic wound management and therapeutic diagnosis",
+S5,356,2: • Scalable wound-closure and epithelial-migration screening systems,Wound-on-a-chip: High-throughput 3D wound healing assay with a novel SU-8 mesh chip,
+S5,357,2: • Scalable wound-closure and epithelial-migration screening systems,High throughput microfluidic drug screening system for corneal epithelial wound healing,
+S5,358,"3: • Barrier, ECM, and phenotypic repair screening platforms",Development of tight junction-strengthening compounds using a high-throughput screening system to evaluate cell surface-localized claudin-1 in keratinocytes,10.1038/s41598-024-53649-1
+S5,359,"3: • Barrier, ECM, and phenotypic repair screening platforms",Identification of a novel collagen-like peptide by high-throughput screening for effective wound-healing therapy,10.1016/j.ijbiomac.2021.01.104
+S5,360,4: • High-content natural-product and nanobiomaterial optimization,High-throughput screening-based design of multifunctional natural polyphenol nano-vesicles to accelerate diabetic wound healing,10.1186/s12951-024-02950-2
+S5,361,"3: • Barrier, ECM, and phenotypic repair screening platforms",Phenotypic screening identifies synergistically acting natural product enhancing the performance of biomaterial based wound healing,
+S5,365,5: • Cell-free biologic and regenerative patch screening platforms,Extracellular vesicles enriched with an endothelial cell pro-survival microRNA affects skin tissue regeneration,10.1016/j.omtn.2022.03.018
+S5,366,5: • Cell-free biologic and regenerative patch screening platforms,Exosomes derived from human amniotic epithelial cells accelerate wound healing and inhibit scar formation,
+S5,367,5: • Cell-free biologic and regenerative patch screening platforms,Exosomes derived from pioglitazone-pretreated MSCs accelerate diabetic wound healing through enhancing angiogenesis,10.1186/s12951-021-00894-5
+S5,369,5: • Cell-free biologic and regenerative patch screening platforms,3D-bioprinted multifunctional artificial skin patches with synergistic antimicrobial-mechanoadaptive functions for accelerating infected wound healing,
+S5,384,7: • Patient-derived vascular and endothelial dysfunction platforms,Single-cell RNA-seq and bulk-seq identify RAB17 as a potential regulator of angiogenesis by human dermal microvascular endothelial cells in diabetic foot ulcers,
+S5,385,7: • Patient-derived vascular and endothelial dysfunction platforms,Modeling diabetic endothelial dysfunction with patient‐specific induced pluripotent stem cells,
+S5,394,9: • Clinical image and trajectory-based wound digital twins,Digital twin in healthcare: a study for chronic wound management,10.1109/JBHI.2023.3299028
+S5,400,9: • Clinical image and trajectory-based wound digital twins,Interpolating and Forecasting Wound Trajectory using Machine Learning Approaches,
+S5,401,9: • Clinical image and trajectory-based wound digital twins,How quickly does a wound heal? Bayesian calibration of a mathematical model of venous leg ulcer healing,
+S5,403,10: • Mechanistic and multiscale wound-treatment simulators,Spatio-temporal multiscale cell modeling of skin wound healing,
+S5,404,10: • Mechanistic and multiscale wound-treatment simulators,Effective spatio-temporal regimes for wound treatment by way of macrophage polarization: a mathematical model,
+S5,405,10: • Mechanistic and multiscale wound-treatment simulators,Mathematical model predicts that acceleration of diabetic wound healing is dependent on spatial distribution of VEGF-A mRNA (AZD8601),
+S5,413,"12: • Skin-on-chip and microfluidic skin testing systems for toxicity, absorption, and permeation",Skin integrated with perfusable vascular channels on a chip,10.1016/j.biomaterials.2016.11.031
+S5,414,"12: • Skin-on-chip and microfluidic skin testing systems for toxicity, absorption, and permeation",Side-effect test of sorafenib using 3-D skin equivalent based on microfluidic skin-on-a-chip,
+S5,423,"12: • Skin-on-chip and microfluidic skin testing systems for toxicity, absorption, and permeation",Multi-chamber microfluidic platform for high-precision skin permeation testing,
+S5,427,13: • Biomaterial and tissue-platform standardization systems,"Multi-scale analysis of the composition, structure, and function of decellularized extracellular matrix for human skin and wound healing models",10.3390/biom12060837
+S5,428,13: • Biomaterial and tissue-platform standardization systems,In vitro characterisation of 3D printed platelet lysate-based bioink for potential application in skin tissue engineering,
+S5,430,13: • Biomaterial and tissue-platform standardization systems,Environmentally controlled microfluidic system enabling immune cell flow and activation in an endothelialised skin‐on‐chip,
+S5,432,13: • Biomaterial and tissue-platform standardization systems,Optimization and Standardization of Stable De-Epidermized Dermis (DED) Models for Functional Evaluation of Cutaneous Cell Therapies,
+S5,451,14: • AI-assisted wound endpoint standardization for clinical and preclinical studies,Towards objective In-Vitro wound healing assessment with segment anything: A large evaluation of interactive and automated pipelines,10.1016/j.cmpbup.2025.100224
+S5,452,14: • AI-assisted wound endpoint standardization for clinical and preclinical studies,Development of a method for clinical evaluation of artificial intelligence–based digital wound assessment tools,
+S5,453,14: • AI-assisted wound endpoint standardization for clinical and preclinical studies,Automatic wound detection and size estimation using deep learning algorithms,
+S5,454,14: • AI-assisted wound endpoint standardization for clinical and preclinical studies,Convolutional Neural Networks in Chronic Wound Segmentation and Tissue Classification Using Real‐World Images,
+S5,460,14: • AI-assisted wound endpoint standardization for clinical and preclinical studies,Enhancing chronic wound assessment through agreement analysis and tissue segmentation,
+S5,468,16: • Wearable infection and wound-state monitoring systems,Wearable battery-free smart bandage with peptide functionalized biosensors based on MXene for bacterial wound infection detection,10.1016/j.snb.2023.133598
+S5,469,16: • Wearable infection and wound-state monitoring systems,In vivo validation of a smart sensor-enabled dressing for remote wound monitoring,
+S5,470,16: • Wearable infection and wound-state monitoring systems,Smart dual‐sensor wound dressing for monitoring cutaneous wounds,
+S5,474,17: • Closed-loop bioelectronic wound-management platforms,Wireless intelligent patch for closed‐loop in situ wound management,10.1002/advs.202400451

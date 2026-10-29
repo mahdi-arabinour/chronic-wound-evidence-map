@@ -1,0 +1,15 @@
+﻿Figure,Item,Rule
+S1,Study eligibility,ONLY 28 unique references cited by current Table S1. A cited study appears once per domain; different domains overlap.
+S1,Longitudinal/time-resolved,"Repeat observed biological response at >1 post-baseline time, NOT culture duration alone; serial wound image, barrier or molecular responses."
+S1,Image/segmentation,"Quantified wound/migration microscopy, morphology, histology-derived dimensions, SEM/TEM, images, automated segmentation, or fluorescence."
+S1,Barrier/permeability,"TEER/impedance, Lucifer yellow, FITC-dextran, quantitative chemical penetration, or barrier recovery measurement."
+S1,Molecular/inflammatory,"Gene/protein or soluble cytokine/ROS/metabolite readouts, pathway analyses, or immune-cell inflammatory phenotyping; morphology alone is insufficient."
+S1,Histology/IHC,"H&E, Masson, immunostaining, lineage labels or quantitative pathology/epidermal differentiation markers."
+S1,Mechanical/material,"Quantified modulus, stiffness, rheology, swelling, degradation, porosity, printer/bioink behavior, or printability."
+S1,Vascular/perfusion,"Vessel phenotype, CD31, eNOS, angiogenesis, vascular leakage, functional perfusion, or capillary morphology."
+S2,0 endpoint,Intervention outcome from one terminal biological measurement. Multiple culture days or multiple exposure durations are not inherently repeated measures.
+S2,1 two-point,Only baseline and single follow-up outcome are demonstrated.
+S2,2 3+ sampling times,"Three or more outcome time points, without documented non-invasive same-specimen tracking of the primary experimental platform. May be cohort/animal-linked."
+S2,3 non-destructive,"Serial NON-DESTRUCTIVE measurement in same experimental skin construct, monolayer or ex vivo explant (e.g. OCT/impedance/bright-field/fluorescence)."
+General,Online verification,Original extraction data were supplied by the author; title and DOI checked against online journal/PubMed metadata or primary-hosted abstracts; ref 121 university DOI and FAO AGRIS abstract only. Full assay methods not reaudited for all 28.
+General,Limitations,"Zero in any domain means unreported in the supplied extraction, not proven absent from the full original paper; some sources are comparative/acute/adjacent rather than directly chronic-wound."
